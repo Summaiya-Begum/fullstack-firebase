@@ -1,0 +1,7 @@
+.scrollBox::-webkit-scrollbar {
+    display: none;
+}
+.scrollBox {
+    /* background-color: aqua; */
+    overflow-y: scroll;
+}
